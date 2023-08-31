@@ -5,7 +5,7 @@ Site de portifolio pessoal
 ## tarefas
 
 - [x] Header
-- [ ] Apresentação
+- [ .] Apresentação
 - [ ] Projetos 
 - [ ] Menu
 - [ ] Responsabilidade 
